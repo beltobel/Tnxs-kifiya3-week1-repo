@@ -1,3 +1,8 @@
 venv/
 src/data/
 src/yfinance_data/
+notebook/corelation.ipynb
+notebook/quantitative_analysis.ipynb
+scripts/
+src/
+
